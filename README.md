@@ -1,6 +1,6 @@
 ### Oi, sou o Guilherme Bencks 
 
-- 🔭 Estudando Analise e Desenvolvimento de Sistemas, primeiro semestre
+- 🔭 Estudando Analise e Desenvolvimento de Sistemas, segundo semestre
 - 🌱 Hoje estou estudando e praticando Linguagem Java 
 - 😄 Pronomes: ele/dele
 ##
